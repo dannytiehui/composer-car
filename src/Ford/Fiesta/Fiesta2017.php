@@ -1,3 +1,5 @@
+<?php
+
 namespace Ford\Fiesta; 
 
 class Fiesta2017

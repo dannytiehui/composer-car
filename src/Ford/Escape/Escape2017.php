@@ -1,3 +1,5 @@
+<?php
+
 namespace Ford\Escape;
 
 class Escape2017

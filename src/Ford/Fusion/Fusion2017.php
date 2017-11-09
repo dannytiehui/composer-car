@@ -1,3 +1,5 @@
+<?php
+
 namespace Ford\Fusion;
 
 class Fusion2017

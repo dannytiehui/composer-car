@@ -1,3 +1,5 @@
+<?php
+
 namespace Ford\Focus;
 
 class Focus2017
